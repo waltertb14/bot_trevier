@@ -1,5 +1,7 @@
 ## Bot Trevier
 This project implements differential robot for a robot, counts with differential controler, localization algoritmo
+required packages:
+https://github.com/joshnewans/ball_tracker.git
 
 Run Gazebo simulation:
 ros2 launch bot_trevier launch_robot.launch.py
