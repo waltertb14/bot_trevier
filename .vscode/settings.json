@@ -1,0 +1,38 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/wt/dimeca_g1/install/rqt_joint_trajectory_controller/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/rqt_controller_manager/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ros2controlcli/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ros2_controllers_test_nodes/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/controller_manager/local/lib/python3.10/dist-packages",
+        "/home/wt/dimeca_g1/install/ros2_control_demo_testing/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/controller_manager_msgs/local/lib/python3.10/dist-packages",
+        "/home/wt/dimeca_g1/install/control_msgs/local/lib/python3.10/dist-packages",
+        "/home/wt/ros2_ws/install/test_py/lib/python3.10/site-packages",
+        "/home/wt/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ball_tracker/lib/python3.10/site-packages",
+        "/home/wt/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/wt/RobotsProject_G10/devel/lib/python3/dist-packages",
+        "/home/wt/WS4_WS/devel/lib/python3/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/wt/dimeca_g1/install/rqt_joint_trajectory_controller/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/rqt_controller_manager/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ros2controlcli/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ros2_controllers_test_nodes/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/controller_manager/local/lib/python3.10/dist-packages",
+        "/home/wt/dimeca_g1/install/ros2_control_demo_testing/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/controller_manager_msgs/local/lib/python3.10/dist-packages",
+        "/home/wt/dimeca_g1/install/control_msgs/local/lib/python3.10/dist-packages",
+        "/home/wt/ros2_ws/install/test_py/lib/python3.10/site-packages",
+        "/home/wt/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/wt/dimeca_g1/install/ball_tracker/lib/python3.10/site-packages",
+        "/home/wt/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/wt/RobotsProject_G10/devel/lib/python3/dist-packages",
+        "/home/wt/WS4_WS/devel/lib/python3/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
