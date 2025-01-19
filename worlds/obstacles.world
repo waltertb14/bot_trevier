@@ -947,7 +947,7 @@
     <model name='tennis_ball'>
       <link name='link'>
         <inertial>
-          <mass>1</mass>
+          <mass>0.001</mass>
           <inertia>
             <ixx>0.1</ixx>
             <ixy>0</ixy>

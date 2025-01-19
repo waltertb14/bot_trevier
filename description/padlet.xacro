@@ -21,8 +21,8 @@
                 <mesh filename="package://bot_trevier/meshes/padlet.stl" scale="${scale}"/>
             </geometry>
         </collision>
-        <xacro:inertial_box mass="0.5" x="0.5" y="0.25" z="0.15">
-            <origin xyz="0 0 0.075" rpy="0 0 0"/>
+        <xacro:inertial_box mass="2" x="0.5" y="0.25" z="0.15">
+            <origin xyz="0 0 0.0" rpy="0 0 0"/>
         </xacro:inertial_box>
     </link>
 
@@ -35,7 +35,7 @@
     </joint>
 
     <gazebo reference="base_padlet">
-        <material>Gazebo/Green</material>
+        <material>Gazebo/Grey</material>
     </gazebo>
     
 </robot>
