@@ -77,12 +77,17 @@ def generate_launch_description():
         arguments=["joint_broad"],
     )
 
-    robot_controller_spawner = Node(
+    # robot_controller_spawner = Node(
+    #     package="controller_manager",
+    #     executable="spawner",
+    #     arguments=["forward_position_controller"]
+    # )
+
+    padlet_controller_spawner = Node(
         package="controller_manager",
         executable="spawner",
-        arguments=["forward_position_controller"]
+        arguments=["padlet_cont"]
     )
-
 
     # Code for delaying a node (I haven't tested how effective it is)
     # 
@@ -110,5 +115,6 @@ def generate_launch_description():
         spawn_entity,
         diff_drive_spawner,
         joint_broad_spawner,
-        robot_controller_spawner
+        # robot_controller_spawner,
+        padlet_controller_spawner
     ])
